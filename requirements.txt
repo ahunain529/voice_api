@@ -1,0 +1,7 @@
+Flask
+numpy
+scipy
+sounddevice
+openai-whisper
+pyttsx3
+google-generativeai
